@@ -146,7 +146,7 @@ for(int i=0; i<5; i++){
 
 ```
 
-Cada vez que ingresa al ciclo, se genera un header nuevo por cada llamada, de la siguiente manera:
+Cada vez que ingresa al ciclo, se genera un [header](https://es.wikipedia.org/wiki/Anexo:Cabeceras_HTTP) nuevo por cada llamada, de la siguiente manera:
 
 ```sh
 
@@ -203,7 +203,7 @@ No se hace necesario abordar a fondo el cómo de la encriptación. Si quieres ab
 
 Mi nombre es [Ignacio Álvarez Arenas](https://github.com/panterozo), y soy un apasionado por la tecnología y soluciones innovadoras. Espero puedas utilizar sin problemas el código fuente, y ante cualquier duda o consulta, puedes contactarme conmigo y te responderé a la brevedad.
 
-Puedes revisar mis otros proyectos [aquí](https://panterozo.github.io/Donaciones/) o por [acá](https://panterozo.github.io/Utils).
+Puedes revisar mis otros proyectos por [aquí](https://panterozo.github.io/Donaciones/) o por [acá](https://panterozo.github.io/Utils).
 
 Happy hacking!
 
