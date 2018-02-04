@@ -67,7 +67,7 @@ Con ello, el proyecto podrá compilar sin problemas. Las clases deben aparecer c
 	</a>
 </div>
 
-Una vez incluida la librería JSON, debes incluir tus KEYS creadas en OrionX. Si aún no lo has hecho, puedes seguir [este tutorial](https://www.orionx.io/developers/tutorials/creacion-api-key). Debes incluir las llaves en el código siguientes:
+Ahora es momento de incluir tus KEYS creadas en OrionX. Si aún no lo has hecho, puedes seguir [este tutorial](https://www.orionx.io/developers/tutorials/creacion-api-key). Debes incluir las llaves en el código siguiente para que puedas realizar consultas en OrionX:
 
 ```sh
 user.setApiKeyPublic("AQUI TIENES QUE PONER TU API KEY");
@@ -80,7 +80,7 @@ user.setSecretKey("AQUI TIENES QUE PONER TU SECRET KEY");
 	</a>
 </div>
 
-De tal manera que quede algo como esto:
+Debes incluir tus KEYS en el código, de tal manera que quede así:
 
 ```sh
 user.setApiKeyPublic("ERssdrbrajh8o6a744fdVFvdfvSPYPqz");
