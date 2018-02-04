@@ -201,6 +201,12 @@ public static String getHeaderApi2(String timestamp, JSONObject jsonObject, Stri
 No se hace necesario abordar a fondo el cómo de la encriptación. Si quieres abordar este problema, puedes ver el siguiente [tutorial](https://www.orionx.io/developers/tutorials/consultas-con-python) dejado por [@itolosa](https://github.com/itolosa).
 
 
+Mi nombre es [Ignacio Álvarez Arenas](https://github.com/panterozo), y soy un apasionado por la tecnología y soluciones innovadoras. Espero puedas utilizar sin problemas el código fuente, y ante cualquier duda o consulta, puedes contactarme conmigo y te responderé a la brevedad.
+
+Puedes revisar mis otros proyectos [aquí](https://panterozo.github.io/Donaciones/) o por [acá](https://panterozo.github.io/Utils).
+
+Happy hacking!
+
 <!--# Obtener Código Fuente
 
 Para obtener el código fuente, puedes descargarlo en un zip desde [Aquí](https://raw.githubusercontent.com/orionsoft/orionx-developers-tutorials/master/tutorials/java/Zipped-API2-OrionX_v1.0.zip), o bien desde el repositorio de origen [aquí](https://github.com/panterozo/API2-OrionX/archive/master.zip).
