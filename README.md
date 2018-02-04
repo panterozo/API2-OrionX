@@ -200,12 +200,30 @@ public static String getHeaderApi2(String timestamp, JSONObject jsonObject, Stri
 
 ```
 
-No se hace necesario abordar a fondo el cómo de la encriptación. Si quieres abordar este problema, puedes ver el siguiente [tutorial](https://www.orionx.io/developers/tutorials/consultas-con-python) dejado por [@itolosa](https://github.com/itolosa).
+No se hace necesario abordar a fondo el cómo de la encriptación. Si quieres abordar este problema, puedes ver el siguiente [tutorial](https://www.orionx.io/developers/tutorials/consultas-con-python) realizado por [@itolosa](https://github.com/itolosa).
 
 
 Mi nombre es [Ignacio Álvarez Arenas](https://github.com/panterozo), y soy un apasionado por la tecnología y soluciones innovadoras. Espero puedas utilizar sin problemas el código fuente, y ante cualquier duda o consulta, puedes contactarme conmigo y te responderé a la brevedad.
 
-Puedes revisar mis otros proyectos por [aquí](https://panterozo.github.io/Donaciones/) o por [acá](https://panterozo.github.io/Utils).
+Te dejo mis wallets, en caso que te animes a aportarme con criptomonedas:
+
+
+Chaucha: `ceoNBCv1JF6GgeAhsFLk6efbRkCX5n8kZn`
+
+Bitcoins: `1CWpA2XnFnfTnbAJN94MpQWyunJgoKYz8K`
+
+Ethereum: `0x9f2688B1a76CC24dA8610E90767c319fb2EA2Af0`
+
+Ripple: `rhQrkgoV4uza557mW6HbBWMtTDkB7u5yrs`
+
+Litecoin: `LVBocBQpqD7FrXiUNrAtrkQtw1JdG6CBQt`
+
+Bitcoin Cash: `14X2cEXpT6BLhFtFhYizCdUgoKtAXede4Z`
+
+Dash: `XytqZKeKyMgG1k5meGocmtGGgPnqH7kRiM`
+
+
+También puedes revisar mis otros proyectos por [aquí](https://panterozo.github.io/Donaciones/) o por [acá](https://panterozo.github.io/Utils).
 
 Happy hacking!
 
