@@ -205,7 +205,7 @@ No se hace necesario abordar a fondo el cómo de la encriptación. Si quieres ab
 
 Mi nombre es [Ignacio Álvarez Arenas](https://github.com/panterozo), y soy un apasionado por la tecnología y soluciones innovadoras. Espero puedas utilizar sin problemas el código fuente, y ante cualquier duda o consulta, puedes contactarme conmigo y te responderé a la brevedad.
 
-Te dejo mis wallets, en caso que te animes a aportarme con criptomonedas:
+Te dejo mis wallets en caso que te animes a aportarme con criptomonedas. Te agradezco profundamente cualquier aporte, por mínimo que sea.
 
 
 Chaucha: `ceoNBCv1JF6GgeAhsFLk6efbRkCX5n8kZn`
