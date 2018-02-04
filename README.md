@@ -42,23 +42,25 @@ Luego, seleccionas la carpeta donde descargaste el proyecto:
 
 Si todo salió bien hasta este punto, debería haberse importado correctamente el proyecto y deberías ver las `clases` como en la siguiente imagen:
 
+<!--
 <div align="center">
 	<a href="https://raw.githubusercontent.com/panterozo/API2-OrionX/master/img/ClassesError.png">
 		<img style="width: 50%" src="https://raw.githubusercontent.com/panterozo/API2-OrionX/master/img/ClassesError.png">
 	</a>
-</div>
-
+</div>-->
+<!--
 El proyecto utiliza la librería [JSON](http://www.java2s.com/Code/JarDownload/java/java-json.jar.zip) que viene incluida dentro de la carpeta lib. Debes incluir el `.jar` al path para poder compilar el proyecto. 
-
-
+-->
+<!--
 <div align="center">
 	<a href="https://raw.githubusercontent.com/panterozo/API2-OrionX/master/img/BuildPath.png">
 		<img style="width: 50%" src="https://raw.githubusercontent.com/panterozo/API2-OrionX/master/img/BuildPath.png">
 	</a>
 </div>
-
+-->
+<!--
 Con ello, el proyecto podrá compilar sin problemas. Las clases deben aparecer como en la siguiente imagen, sin las cruces de error:
-
+-->
 <div align="center">
 	<a href="https://raw.githubusercontent.com/panterozo/API2-OrionX/master/img/ClassesImage.png">
 		<img style="width: 50%" src="https://raw.githubusercontent.com/panterozo/API2-OrionX/master/img/ClassesImage.png">
