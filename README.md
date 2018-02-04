@@ -88,8 +88,8 @@ user.setSecretKey("WsdKztw9CcnnYrOM8SExKSN5sqiEr5hw9P");
 Ahora podrás ejecutar el programa sin problemas. Para ello, debes clickear con el botón derecho del mouse sobre la clase OrionXBase.java, y seleccionar `Run As... Java Application`, como se muestra en la imagen abajo.
 
 <div align="center">
-	<a href="https://raw.githubusercontent.com/panterozo/API2-OrionX/master/img/settingUpKeys.png">
-		<img style="width: 50%" src="https://raw.githubusercontent.com/panterozo/API2-OrionX/master/img/settingUpKeys.png">
+	<a href="https://raw.githubusercontent.com/panterozo/API2-OrionX/master/img/RunProgram.png">
+		<img style="width: 50%" src="https://raw.githubusercontent.com/panterozo/API2-OrionX/master/img/RunProgram.png">
 	</a>
 </div>
 
